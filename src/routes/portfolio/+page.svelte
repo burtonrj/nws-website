@@ -105,8 +105,8 @@
                 title="Devil You Know"
                 contributions="Director/DOP/Camera Operator"
                 producer="No Worries Production"
-                youtubeLink="https://www.youtube.com/embed/MwXwTh4cEJE?si=cNxCM3qBAaL4Hmg5"
-                innerWidth={innerWidth}
+                youtubeLink="https://www.youtube.com/embed/Dnjsttn39zU?si=6wW7KlzclDrghfXZ"
+                innerWidth={innerWidth} 
             />
             <VideoCard
                 type="Short Film"
