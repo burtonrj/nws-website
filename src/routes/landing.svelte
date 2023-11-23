@@ -28,7 +28,7 @@
         >
         <img src="/logo/logo_250_nbg.png"
         alt="Logo" 
-        class="p-10 mt-10 relative">
+        class="p-10 mt-10 relative w-96">
         {#if innerWidth > 768}
             <div class="p-2 mt-2 mx-10 relative font-roboto subpixel-antialiased bg-clip-border text-center relative">
                 <h1 class='font-bold text-xl'>Photographer | Cinematographer | Film-Maker</h1>

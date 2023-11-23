@@ -25,7 +25,7 @@
         >
         <img src="/logo/logo_250_nbg.png"
         alt="Logo" 
-        class="p-10 mt-10 relative">
+        class="p-10 mt-10 relative w-96">
         <div class="p-2 mt-2 mx-10 relative font-incosolata subpixel-antialiased bg-clip-border text-center relative">
             <h1 class='font-bold text-xl'>Want to work together?</h1>
             <a href="https://www.instagram.com" target="_blank" class="flex items-center justify-center gap-x-2 mt-4 hover:underline">
