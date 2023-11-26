@@ -54,6 +54,6 @@
     {#if innerWidth <= 768}
         <div class='mb-5'>
            <Socials />
-        <div/>
+        </div>
     {/if}
 </div>
