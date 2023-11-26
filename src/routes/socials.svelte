@@ -1,4 +1,4 @@
-<div class='flex gap-5 relative p-3 mt-5 rounded-lg'>
+<div class='flex gap-5 relative p-3 mt-4 rounded-lg'>
     <a href="https://www.instagram.com" target="_blank">
         <img src="/icons/coloured/instagram.png" alt="Instagram" class="w-10 h-10"/>
     </a>
