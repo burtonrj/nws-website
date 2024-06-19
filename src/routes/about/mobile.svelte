@@ -9,7 +9,7 @@
     </div>
     <div class="justify-center items-center text-center mt-7">
         <h1 class="text-2xl font-bold mb-4 mx-5">Hi, I'm Harry</h1>
-        <p class="mb-4 mx-5">I'm a passionate and driven third year student of ﬁlmmaking with a strong motivation and a keen eye for camera work. No Worries Productions is my 
+        <p class="mb-4 mx-5">I'm a passionate and driven cinematographer and director with a BA in ﬁlmmaking. No Worries Productions is my 
             independant production studio through which I express my creative vision and produce professional content for clients.</p>
         <p class="mb-4 mx-5">In my work I engage in experimental film-making, create documentaries, provide production design, and camera operations, but I am also an 
             avid photographer and cinematographer. Please check out some of my work by visiting my <a href="/portfolio" class='underline'>portfolio page</a> 
